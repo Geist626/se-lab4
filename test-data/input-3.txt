@@ -1,0 +1,4 @@
+# Test SINGLE mode when the primary store is empty
+GT4500,0,0,2,0
+TORPEDO,SINGLE  # Use secondary store instead
+TORPEDO,SINGLE  # Fire remaining secondary torpedo

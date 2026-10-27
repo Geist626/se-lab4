@@ -1,0 +1,6 @@
+# Test alternating torpedo stores in SINGLE mode
+GT4500,2,0,2,0
+TORPEDO,SINGLE  # Fire from primary store
+TORPEDO,SINGLE  # Fire from secondary store
+TORPEDO,SINGLE  # Fire from primary store again
+TORPEDO,SINGLE  # Fire from secondary store again

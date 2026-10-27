@@ -1,0 +1,5 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- First TORPEDO
+SUCCESS  # <- Second TORPEDO
+SUCCESS  # <- Third TORPEDO
+SUCCESS  # <- Fourth TORPEDO
