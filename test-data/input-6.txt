@@ -1,0 +1,4 @@
+# Test firing when both torpedo stores always fail
+GT4500,2,1,2,1
+TORPEDO,SINGLE  # Primary store fails
+TORPEDO,ALL     # Both stores fail
